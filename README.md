@@ -94,10 +94,10 @@ project-folder/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/glass-skin-effect.git
+git clone https://github.com/Masoom08/clean-skin.git
 
 # 2. Navigate into project folder
-cd glass-skin-effect
+cd clean-skin
 
 # 3. Open the website
 Open index.html in your browser
